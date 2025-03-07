@@ -24,7 +24,7 @@ const Navbar = () => {
                 className='container flex justify-between items-center'>
                 {/* Logo section */}
                 <div>
-                    <a href="#" className='text-xl font-bold uppercase'>The Exodus</a>
+                    <a href="#" className='text-xl font-bold uppercase'> Headphones Shop(TheExodus) </a>
                 </div>
                 {/* Desktop menu */}
                 <div className='hidden md:block'>
